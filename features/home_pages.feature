@@ -5,7 +5,7 @@ Feature: Viewer visits Home Page
 
   Scenario: View home page
     Given I am on the home page
-    Then I should see "This the home page."
+    Then I should see "This is the home page."
                 
   Scenario: Find heading on home page
     Given I am on the home page
